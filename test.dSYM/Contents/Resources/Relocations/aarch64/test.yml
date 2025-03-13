@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/jaeyeonkim/Desktop/프방/git_test/test"
+relocations:     []
+...
